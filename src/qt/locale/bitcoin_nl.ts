@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About MetalCoin</source>
-        <translation>Over MetalCoin</translation>
+        <source>About GeoCoin</source>
+        <translation>Over GeoCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;MetalCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;MetalCoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;GeoCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;GeoCoin&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The MetalCoin developers</source>
+Copyright © 2014 The GeoCoin developers</source>
         <translation>Copyright © 2009-2014 De Bitcoin ontwikkelaars
 Copyright © 2012-2014 De NovaCoin ontwikkelaars
-Copyright © 2014 De MetalCoin ontwikkelaars</translation>
+Copyright © 2014 De GeoCoin ontwikkelaars</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your MetalCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn al jou MetalCoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
+        <source>These are your GeoCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn al jou GeoCoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a MetalCoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een MetalCoin adres bezit.</translation>
+        <source>Sign a message to prove you own a GeoCoin address</source>
+        <translation>Teken een bericht om te bewijzen dat je een GeoCoin adres bezit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified MetalCoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek MetalCoin adres</translation>
+        <source>Verify a message to ensure it was signed with a specified GeoCoin address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek GeoCoin adres</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-58"/>
-        <source>MetalCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>MetalCoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
+        <source>GeoCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>GeoCoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about MetalCoin</source>
-        <translation>Toon informatie over MetalCoin</translation>
+        <source>Show information about GeoCoin</source>
+        <translation>Toon informatie over GeoCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a MetalCoin address</source>
-        <translation>Verstuur munten naar een MetalCoin adres</translation>
+        <source>Send coins to a GeoCoin address</source>
+        <translation>Verstuur munten naar een GeoCoin adres</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for MetalCoin</source>
-        <translation>Verander configuratie opties voor MetalCoin</translation>
+        <source>Modify configuration options for GeoCoin</source>
+        <translation>Verander configuratie opties voor GeoCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-202"/>
-        <source>MetalCoin</source>
-        <translation>MetalCoin</translation>
+        <source>GeoCoin</source>
+        <translation>GeoCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About MetalCoin</source>
-        <translation>&amp;Over MetalCoin</translation>
+        <source>&amp;About GeoCoin</source>
+        <translation>&amp;Over GeoCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>MetalCoin client</source>
-        <translation>MetalCoin client</translation>
+        <source>GeoCoin client</source>
+        <translation>GeoCoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to MetalCoin network</source>
-        <translation><numerusform>%n actieve verbinding naar MetalCoin netwerk</numerusform><numerusform>%n actieve verbindingen naar MetalCoin netwerk</numerusform></translation>
+        <source>%n active connection(s) to GeoCoin network</source>
+        <translation><numerusform>%n actieve verbinding naar GeoCoin netwerk</numerusform><numerusform>%n actieve verbindingen naar GeoCoin netwerk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-312"/>
-        <source>About MetalCoin card</source>
-        <translation>Over MetalCoin card</translation>
+        <source>About GeoCoin card</source>
+        <translation>Over GeoCoin card</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about MetalCoin card</source>
-        <translation>Toon informatie over MetalCoin card</translation>
+        <source>Show information about GeoCoin card</source>
+        <translation>Toon informatie over GeoCoin card</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid MetalCoin address or malformed URI parameters.</source>
-        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig MetalCoin adres of incorrecte URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid GeoCoin address or malformed URI parameters.</source>
+        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig GeoCoin adres of incorrecte URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. MetalCoin can no longer continue safely and will quit.</source>
-        <translation>Een fatale fout . MetalCoin kan niet langer veilig doorgaan en sluit af.</translation>
+        <source>A fatal error occurred. GeoCoin can no longer continue safely and will quit.</source>
+        <translation>Een fatale fout . GeoCoin kan niet langer veilig doorgaan en sluit af.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid MetalCoin address.</source>
-        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig MetalCoin adres.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid GeoCoin address.</source>
+        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig GeoCoin adres.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>MetalCoin-Qt</source>
-        <translation>MetalCoin-Qt</translation>
+        <source>GeoCoin-Qt</source>
+        <translation>GeoCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start MetalCoin after logging in to the system.</source>
-        <translation>Automatisch starten van MetalCoin na inloggen van het systeem.</translation>
+        <source>Automatically start GeoCoin after logging in to the system.</source>
+        <translation>Automatisch starten van GeoCoin na inloggen van het systeem.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start MetalCoin on system login</source>
-        <translation>&amp;Start MetalCoin bij systeem aanmelding</translation>
+        <source>&amp;Start GeoCoin on system login</source>
+        <translation>&amp;Start GeoCoin bij systeem aanmelding</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the MetalCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>De MetalCoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
+        <source>Automatically open the GeoCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>De GeoCoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the MetalCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbinding maken met het MetalCoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
+        <source>Connect to the GeoCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbinding maken met het GeoCoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting MetalCoin.</source>
-        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na MetalCoin opnieuw op te starten.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting GeoCoin.</source>
+        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na GeoCoin opnieuw op te starten.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show MetalCoin addresses in the transaction list or not.</source>
-        <translation>MetalCoin adressen in de transactielijst weergeven of niet</translation>
+        <source>Whether to show GeoCoin addresses in the transaction list or not.</source>
+        <translation>GeoCoin adressen in de transactielijst weergeven of niet</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting MetalCoin.</source>
-        <translation>Deze instelling word toegepast na een restart van MetalCoin.</translation>
+        <source>This setting will take effect after restarting GeoCoin.</source>
+        <translation>Deze instelling word toegepast na een restart van GeoCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the MetalCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het MetalCoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GeoCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het GeoCoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the MetalCoin-Qt help message to get a list with possible MetalCoin command-line options.</source>
-        <translation>Laat het MetalCoin-QT help bericht zien om een lijst te krijgen met mogelijke MetalCoin command-regel opties.</translation>
+        <source>Show the GeoCoin-Qt help message to get a list with possible GeoCoin command-line options.</source>
+        <translation>Laat het GeoCoin-QT help bericht zien om een lijst te krijgen met mogelijke GeoCoin command-regel opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>MetalCoin - Debug window</source>
-        <translation>MetalCoin - Debugscherm</translation>
+        <source>GeoCoin - Debug window</source>
+        <translation>GeoCoin - Debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>MetalCoin Core</source>
-        <translation>MetalCoin Kern</translation>
+        <source>GeoCoin Core</source>
+        <translation>GeoCoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the MetalCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het MetalCoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
+        <source>Open the GeoCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het GeoCoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the MetalCoin RPC console.</source>
-        <translation>Welkom bij de MetalCoin RPC console.</translation>
+        <source>Welcome to the GeoCoin RPC console.</source>
+        <translation>Welkom bij de GeoCoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a MetalCoin address (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Voeg een MetalCoin adres in (bijv. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a GeoCoin address (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Voeg een GeoCoin adres in (bijv. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid MetalCoin address</source>
-        <translation>WAARSCHUWING: Ongeldig MetalCoin adres</translation>
+        <source>WARNING: Invalid GeoCoin address</source>
+        <translation>WAARSCHUWING: Ongeldig GeoCoin adres</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1910,8 +1910,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Het adres om naar te betalen (bijv. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Het adres om naar te betalen (bijv. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a MetalCoin address (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Voeg een MetalCoin adres in (bijv. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a GeoCoin address (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Voeg een GeoCoin adres in (bijv. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1964,8 +1964,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Het adres om het bericht te ondertekenen (bijv. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2) </translation>
+        <source>The address to sign the message with (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Het adres om het bericht te ondertekenen (bijv. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2) </translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2001,8 +2001,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this MetalCoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een MetalCoin adres bezit.</translation>
+        <source>Sign the message to prove you own this GeoCoin address</source>
+        <translation>Teken een bericht om te bewijzen dat je een GeoCoin adres bezit.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2028,13 +2028,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Het adres van het bericht is ondertekend met (bijv. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Het adres van het bericht is ondertekend met (bijv. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified MetalCoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek MetalCoin adres</translation>
+        <source>Verify the message to ensure it was signed with the specified GeoCoin address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek GeoCoin adres</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a MetalCoin address (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Voeg een MetalCoin adres in (bijv. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a GeoCoin address (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Voeg een GeoCoin adres in (bijv. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter MetalCoin signature</source>
-        <translation>Voer MetalCoin handtekening in</translation>
+        <source>Enter GeoCoin signature</source>
+        <translation>Voer GeoCoin handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>MetalCoin version</source>
-        <translation>MetalCoin versie</translation>
+        <source>GeoCoin version</source>
+        <translation>GeoCoin versie</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or MetalCoind</source>
-        <translation>Verstuur commando naar -server of MetalCoind</translation>
+        <source>Send command to -server or GeoCoind</source>
+        <translation>Verstuur commando naar -server of GeoCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: MetalCoin.conf)</source>
-        <translation>Selecteer configuratie bestand (standaard: MetalCoin.conf)</translation>
+        <source>Specify configuration file (default: GeoCoin.conf)</source>
+        <translation>Selecteer configuratie bestand (standaard: GeoCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: MetalCoind.pid)</source>
-        <translation>Selecteer pid bestand (standaard: MetalCoin.conf)</translation>
+        <source>Specify pid file (default: GeoCoind.pid)</source>
+        <translation>Selecteer pid bestand (standaard: GeoCoin.conf)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong MetalCoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is MetalCoin zal niet goed werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GeoCoin will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is GeoCoin zal niet goed werken.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,24 +3000,24 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=MetalCoinrpc
+rpcuser=GeoCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;MetalCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;GeoCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een rpcpassword instellen in het configuratiebestand: 
 %s 
 Het wordt aanbevolen de volgende willekeurig wachtwoord gebruiken: 
-rpcuser = MetalCoinrpc 
+rpcuser = GeoCoinrpc 
 rpcpassword = %s 
 (je hoeft niet dit wachtwoord te onthouden) 
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 
 Als het bestand niet bestaat, maakt u met leesbare-alleen-eigenaar bestandsbeheermachtigingen.  
 Het wordt ook aanbevolen om alertnotify instellen zodat u een melding van problemen;  
-bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;MetalCoin Alert&quot; admin@foo.com </translation>
+bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;GeoCoin Alert&quot; admin@foo.com </translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3141,13 +3141,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;MetalCoin Alert&quot; admin
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  MetalCoin is probably already running.</source>
-        <translation>Kan een slot op data directory %s niet verkrijgen. MetalCoin wordt waarschijnlijk al uitgevoerd.</translation>
+        <source>Cannot obtain a lock on data directory %s.  GeoCoin is probably already running.</source>
+        <translation>Kan een slot op data directory %s niet verkrijgen. GeoCoin wordt waarschijnlijk al uitgevoerd.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>MetalCoin</source>
-        <translation>MetalCoin</translation>
+        <source>GeoCoin</source>
+        <translation>GeoCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3181,13 +3181,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;MetalCoin Alert&quot; admin
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of MetalCoin</source>
-        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van MetalCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of GeoCoin</source>
+        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van GeoCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart MetalCoin to complete</source>
-        <translation>Portemonnee moet herschreven worden: herstart MetalCoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart GeoCoin to complete</source>
+        <translation>Portemonnee moet herschreven worden: herstart GeoCoin om te voltooien</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3256,8 +3256,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;MetalCoin Alert&quot; admin
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. MetalCoin is probably already running.</source>
-        <translation>Niet mogelijk om %s op deze computer. MetalCoin is waarschijnlijk al geopened.</translation>
+        <source>Unable to bind to %s on this computer. GeoCoin is probably already running.</source>
+        <translation>Niet mogelijk om %s op deze computer. GeoCoin is waarschijnlijk al geopened.</translation>
     </message>
     <message>
         <location line="-97"/>

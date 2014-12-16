@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About MetalCoin</source>
-        <translation>Acerca de MetalCoin</translation>
+        <source>About GeoCoin</source>
+        <translation>Acerca de GeoCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;MetalCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;MetalCoin&lt;/b&gt; versión</translation>
+        <source>&lt;b&gt;GeoCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;GeoCoin&lt;/b&gt; versión</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The MetalCoin developers</source>
+Copyright © 2014 The GeoCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The MetalCoin developers</translation>
+Copyright © 2014 The GeoCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -68,8 +68,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your MetalCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son las direcciones de MetalCoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
+        <source>These are your GeoCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son las direcciones de GeoCoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -83,8 +83,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a MetalCoin address</source>
-        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de MetalCoin</translation>
+        <source>Sign a message to prove you own a GeoCoin address</source>
+        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de GeoCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -98,8 +98,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified MetalCoin address</source>
-        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de MetalCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified GeoCoin address</source>
+        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de GeoCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -266,8 +266,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-58"/>
-        <source>MetalCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>MetalCoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
+        <source>GeoCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>GeoCoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -380,8 +380,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about MetalCoin</source>
-        <translation>Mostrar información sobre MetalCoin</translation>
+        <source>Show information about GeoCoin</source>
+        <translation>Mostrar información sobre GeoCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a MetalCoin address</source>
-        <translation>Enviar monedas a una dirección de MetalCoin</translation>
+        <source>Send coins to a GeoCoin address</source>
+        <translation>Enviar monedas a una dirección de GeoCoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for MetalCoin</source>
-        <translation>Modificar las opciones de configuración para MetalCoin</translation>
+        <source>Modify configuration options for GeoCoin</source>
+        <translation>Modificar las opciones de configuración para GeoCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-202"/>
-        <source>MetalCoin</source>
-        <translation>MetalCoin</translation>
+        <source>GeoCoin</source>
+        <translation>GeoCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About MetalCoin</source>
-        <translation>Acerca de MetalCoin</translation>
+        <source>&amp;About GeoCoin</source>
+        <translation>Acerca de GeoCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,13 +542,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>MetalCoin client</source>
-        <translation>Cliente MetalCoin</translation>
+        <source>GeoCoin client</source>
+        <translation>Cliente GeoCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to MetalCoin network</source>
-        <translation><numerusform>%n conexión activa a la red MetalCoin</numerusform><numerusform>%n conexiones activas a la red MetalCoin</numerusform></translation>
+        <source>%n active connection(s) to GeoCoin network</source>
+        <translation><numerusform>%n conexión activa a la red GeoCoin</numerusform><numerusform>%n conexiones activas a la red GeoCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -587,13 +587,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-312"/>
-        <source>About MetalCoin card</source>
-        <translation>Sobre la tarjeta MetalCoin</translation>
+        <source>About GeoCoin card</source>
+        <translation>Sobre la tarjeta GeoCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about MetalCoin card</source>
-        <translation>Mostrar información sobre la tarjeta MetalCoin</translation>
+        <source>Show information about GeoCoin card</source>
+        <translation>Mostrar información sobre la tarjeta GeoCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -672,8 +672,8 @@ Dirección: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid MetalCoin address or malformed URI parameters.</source>
-        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de MetalCoin no válida o parámetros de URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid GeoCoin address or malformed URI parameters.</source>
+        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de GeoCoin no válida o parámetros de URI malformados.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -732,8 +732,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. MetalCoin can no longer continue safely and will quit.</source>
-        <translation>Se ha producido un error fatal. MetalCoin ya no puede continuar de forma segura y cerrará.</translation>
+        <source>A fatal error occurred. GeoCoin can no longer continue safely and will quit.</source>
+        <translation>Se ha producido un error fatal. GeoCoin ya no puede continuar de forma segura y cerrará.</translation>
     </message>
 </context>
 <context>
@@ -1066,8 +1066,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid MetalCoin address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de MetalCoin.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid GeoCoin address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de GeoCoin.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1085,8 +1085,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>MetalCoin-Qt</source>
-        <translation>MetalCoin-Qt</translation>
+        <source>GeoCoin-Qt</source>
+        <translation>GeoCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1158,13 +1158,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start MetalCoin after logging in to the system.</source>
-        <translation>Iniciar MetalCoin automáticamente después de entrar en el sistema.</translation>
+        <source>Automatically start GeoCoin after logging in to the system.</source>
+        <translation>Iniciar GeoCoin automáticamente después de entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start MetalCoin on system login</source>
-        <translation>&amp;Iniciar MetalCoin al inicio del sistema</translation>
+        <source>&amp;Start GeoCoin on system login</source>
+        <translation>&amp;Iniciar GeoCoin al inicio del sistema</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1183,8 +1183,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the MetalCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto de cliente MetalCoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the GeoCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto de cliente GeoCoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1193,8 +1193,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the MetalCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conéctese a la red de MetalCoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
+        <source>Connect to the GeoCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conéctese a la red de GeoCoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1268,8 +1268,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting MetalCoin.</source>
-        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar MetalCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting GeoCoin.</source>
+        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar GeoCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1283,8 +1283,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show MetalCoin addresses in the transaction list or not.</source>
-        <translation>Tanto para mostrar direcciones de MetalCoin en la lista de transacciones o no.</translation>
+        <source>Whether to show GeoCoin addresses in the transaction list or not.</source>
+        <translation>Tanto para mostrar direcciones de GeoCoin en la lista de transacciones o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1330,8 +1330,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting MetalCoin.</source>
-        <translation>Esta configuración se aplicará después de reiniciar MetalCoin.</translation>
+        <source>This setting will take effect after restarting GeoCoin.</source>
+        <translation>Esta configuración se aplicará después de reiniciar GeoCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1349,8 +1349,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the MetalCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red MetalCoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GeoCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red GeoCoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1565,8 +1565,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the MetalCoin-Qt help message to get a list with possible MetalCoin command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de MetalCoin-Qt para obtener una lista con las posibles opciones de línea de comandos para MetalCoin.</translation>
+        <source>Show the GeoCoin-Qt help message to get a list with possible GeoCoin command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de GeoCoin-Qt para obtener una lista con las posibles opciones de línea de comandos para GeoCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1585,13 +1585,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>MetalCoin - Debug window</source>
-        <translation>MetalCoin - Ventana de depuración</translation>
+        <source>GeoCoin - Debug window</source>
+        <translation>GeoCoin - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>MetalCoin Core</source>
-        <translation>Núcleo MetalCoin</translation>
+        <source>GeoCoin Core</source>
+        <translation>Núcleo GeoCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1600,8 +1600,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the MetalCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abre el archivo de registro de MetalCoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
+        <source>Open the GeoCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abre el archivo de registro de GeoCoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1610,8 +1610,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the MetalCoin RPC console.</source>
-        <translation>Bienvenido a la consola RPC de MetalCoin</translation>
+        <source>Welcome to the GeoCoin RPC console.</source>
+        <translation>Bienvenido a la consola RPC de GeoCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1769,8 +1769,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a MetalCoin address (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduce una dirección MetalCoin (p.ej. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a GeoCoin address (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduce una dirección GeoCoin (p.ej. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1869,8 +1869,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid MetalCoin address</source>
-        <translation>ADVERTENCIA: Dirección MetalCoin inválida</translation>
+        <source>WARNING: Invalid GeoCoin address</source>
+        <translation>ADVERTENCIA: Dirección GeoCoin inválida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1913,8 +1913,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>La dirección a la que se quiere enviar el pago (p.ej. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La dirección a la que se quiere enviar el pago (p.ej. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1943,8 +1943,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a MetalCoin address (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduce una dirección MetalCoin (p.ej. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a GeoCoin address (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduce una dirección GeoCoin (p.ej. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1967,8 +1967,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>La dirección a firmar con un mensaje (p.ej. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La dirección a firmar con un mensaje (p.ej. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2004,8 +2004,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this MetalCoin address</source>
-        <translation>Firma el mensaje para demostrar que posees esta dirección MetalCoin.</translation>
+        <source>Sign the message to prove you own this GeoCoin address</source>
+        <translation>Firma el mensaje para demostrar que posees esta dirección GeoCoin.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2031,13 +2031,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>La dirección firmada con un mensaje (p.ej. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La dirección firmada con un mensaje (p.ej. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified MetalCoin address</source>
-        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección MetalCoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified GeoCoin address</source>
+        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección GeoCoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2047,8 +2047,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a MetalCoin address (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduce una dirección MetalCoin (p.ej MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a GeoCoin address (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduce una dirección GeoCoin (p.ej GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2057,8 +2057,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter MetalCoin signature</source>
-        <translation>Introduce la firma MetalCoin</translation>
+        <source>Enter GeoCoin signature</source>
+        <translation>Introduce la firma GeoCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2628,8 +2628,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>MetalCoin version</source>
-        <translation>versión MetalCoin</translation>
+        <source>GeoCoin version</source>
+        <translation>versión GeoCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2638,8 +2638,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or MetalCoind</source>
-        <translation>Envía un comando a -server o MetalCoind</translation>
+        <source>Send command to -server or GeoCoind</source>
+        <translation>Envía un comando a -server o GeoCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2661,13 +2661,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: MetalCoin.conf)</source>
-        <translation>Especifica un archivo de configuración (por defecto: MetalCoin.conf)</translation>
+        <source>Specify configuration file (default: GeoCoin.conf)</source>
+        <translation>Especifica un archivo de configuración (por defecto: GeoCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: MetalCoind.pid)</source>
-        <translation>Especifica un archivo pid (por defecto: MetalCoind.pid)</translation>
+        <source>Specify pid file (default: GeoCoind.pid)</source>
+        <translation>Especifica un archivo pid (por defecto: GeoCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2819,8 +2819,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong MetalCoin will not work properly.</source>
-        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo MetalCoin no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GeoCoin will not work properly.</source>
+        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo GeoCoin no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3010,24 +3010,24 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=MetalCoinrpc
+rpcuser=GeoCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;MetalCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;GeoCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, debe establecer un rpcpassword en el fichero de configuración:
 %s
 Se recomienda utilizar la siguiente contraseña aleatoria:
-rpcuser=MetalCoinrpc
+rpcuser=GeoCoinrpc
 rpcpassword=%s
 (no necesita recordar este password)
 El nombre de usuario y contraseña no debe ser el mismo.
 Si no existe el archivo, créelo con permisos de sólo lectura para el dueño.
 También se recomienda establecer alertnotify para ser notificado de los problemas;
-por ejemplo: alertnotify=echo %%s | mail -s &quot;MetalCoin Alert&quot; admin@foo.com
+por ejemplo: alertnotify=echo %%s | mail -s &quot;GeoCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3159,13 +3159,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;MetalCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  MetalCoin is probably already running.</source>
-        <translation>No se puede obtener un bloqueo en el directorio de datos %s. MetalCoin probablemente ya esté en funcionamiento.</translation>
+        <source>Cannot obtain a lock on data directory %s.  GeoCoin is probably already running.</source>
+        <translation>No se puede obtener un bloqueo en el directorio de datos %s. GeoCoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>MetalCoin</source>
-        <translation>MetalCoin</translation>
+        <source>GeoCoin</source>
+        <translation>GeoCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3199,13 +3199,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;MetalCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of MetalCoin</source>
-        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de MetalCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of GeoCoin</source>
+        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de GeoCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart MetalCoin to complete</source>
-        <translation>El monedero necesita ser reescrito: reinicie MetalCoin para completar</translation>
+        <source>Wallet needed to be rewritten: restart GeoCoin to complete</source>
+        <translation>El monedero necesita ser reescrito: reinicie GeoCoin para completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3274,8 +3274,8 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;MetalCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. MetalCoin is probably already running.</source>
-        <translation>No se puede enlazar a %s en este equipo. MetalCoin probablemente ya esté en funcionamiento.</translation>
+        <source>Unable to bind to %s on this computer. GeoCoin is probably already running.</source>
+        <translation>No se puede enlazar a %s en este equipo. GeoCoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-97"/>

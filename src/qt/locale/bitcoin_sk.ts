@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About MetalCoin</source>
-        <translation>O MetalCoin</translation>
+        <source>About GeoCoin</source>
+        <translation>O GeoCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;MetalCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;MetalCoin&lt;/b&gt; verzia</translation>
+        <source>&lt;b&gt;GeoCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;GeoCoin&lt;/b&gt; verzia</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The MetalCoin developers</source>
+Copyright © 2014 The GeoCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The MetalCoin developers</translation>
+Copyright © 2014 The GeoCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your MetalCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše MetalCoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
+        <source>These are your GeoCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše GeoCoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a MetalCoin address</source>
-        <translation>Podpísať správu, že vlastníte MetalCoin adresu</translation>
+        <source>Sign a message to prove you own a GeoCoin address</source>
+        <translation>Podpísať správu, že vlastníte GeoCoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified MetalCoin address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou MetalCoin adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified GeoCoin address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou GeoCoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>MetalCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>MetalCoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>GeoCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>GeoCoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about MetalCoin</source>
-        <translation>Zobraziť informácie o MetalCoin</translation>
+        <source>Show information about GeoCoin</source>
+        <translation>Zobraziť informácie o GeoCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a MetalCoin address</source>
-        <translation>Poslať mince na MetalCoin adresu</translation>
+        <source>Send coins to a GeoCoin address</source>
+        <translation>Poslať mince na GeoCoin adresu</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for MetalCoin</source>
-        <translation>Upraviť možnosti konfigurácie pre MetalCoin</translation>
+        <source>Modify configuration options for GeoCoin</source>
+        <translation>Upraviť možnosti konfigurácie pre GeoCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-202"/>
-        <source>MetalCoin</source>
-        <translation>MetalCoin</translation>
+        <source>GeoCoin</source>
+        <translation>GeoCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About MetalCoin</source>
-        <translation>&amp;O MetalCoin</translation>
+        <source>&amp;About GeoCoin</source>
+        <translation>&amp;O GeoCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>MetalCoin client</source>
-        <translation>MetalCoin client</translation>
+        <source>GeoCoin client</source>
+        <translation>GeoCoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to MetalCoin network</source>
-        <translation><numerusform>%n aktívne spojenie s MetalCoin sieťov</numerusform><numerusform>%n aktívnych spojení s MetalCoin sieťov</numerusform><numerusform>%n aktívnych spojení s MetalCoin sieťov</numerusform></translation>
+        <source>%n active connection(s) to GeoCoin network</source>
+        <translation><numerusform>%n aktívne spojenie s GeoCoin sieťov</numerusform><numerusform>%n aktívnych spojení s GeoCoin sieťov</numerusform><numerusform>%n aktívnych spojení s GeoCoin sieťov</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-312"/>
-        <source>About MetalCoin card</source>
-        <translation>O MetalCoin karte</translation>
+        <source>About GeoCoin card</source>
+        <translation>O GeoCoin karte</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about MetalCoin card</source>
-        <translation>Zobraziť informácie o MetalCoin karte</translation>
+        <source>Show information about GeoCoin card</source>
+        <translation>Zobraziť informácie o GeoCoin karte</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -668,8 +668,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid MetalCoin address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou MetalCoin adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid GeoCoin address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou GeoCoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -728,8 +728,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. MetalCoin can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. MetalCoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. GeoCoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. GeoCoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid MetalCoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou MetalCoin adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid GeoCoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou GeoCoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>MetalCoin-Qt</source>
-        <translation>MetalCoin-Qt</translation>
+        <source>GeoCoin-Qt</source>
+        <translation>GeoCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start MetalCoin after logging in to the system.</source>
-        <translation>Automaticky spustiť MetalCoin po prihlásení sa do systému.</translation>
+        <source>Automatically start GeoCoin after logging in to the system.</source>
+        <translation>Automaticky spustiť GeoCoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start MetalCoin on system login</source>
-        <translation>&amp;Spustiť MetalCoin pri prihlásení do systému</translation>
+        <source>&amp;Start GeoCoin on system login</source>
+        <translation>&amp;Spustiť GeoCoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1179,8 +1179,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the MetalCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta MetalCoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the GeoCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta GeoCoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1189,8 +1189,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the MetalCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti MetalCoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the GeoCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti GeoCoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1264,8 +1264,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting MetalCoin.</source>
-        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní MetalCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting GeoCoin.</source>
+        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní GeoCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1279,8 +1279,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show MetalCoin addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť MetalCoin adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show GeoCoin addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť GeoCoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1326,8 +1326,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting MetalCoin.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní MetalCoin.</translation>
+        <source>This setting will take effect after restarting GeoCoin.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní GeoCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1345,8 +1345,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the MetalCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou MetalCoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GeoCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou GeoCoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1561,8 +1561,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the MetalCoin-Qt help message to get a list with possible MetalCoin command-line options.</source>
-        <translation>Zobraziť MetalCoin-Qt nápovedu k získaniu zoznamu pre možnosti MetalCoin príkazového riadku.</translation>
+        <source>Show the GeoCoin-Qt help message to get a list with possible GeoCoin command-line options.</source>
+        <translation>Zobraziť GeoCoin-Qt nápovedu k získaniu zoznamu pre možnosti GeoCoin príkazového riadku.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1581,13 +1581,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-104"/>
-        <source>MetalCoin - Debug window</source>
-        <translation>MetalCoin - Ladiace okno</translation>
+        <source>GeoCoin - Debug window</source>
+        <translation>GeoCoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>MetalCoin Core</source>
-        <translation>MetalCoin Core</translation>
+        <source>GeoCoin Core</source>
+        <translation>GeoCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1596,8 +1596,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the MetalCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte MetalCoin ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
+        <source>Open the GeoCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte GeoCoin ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1606,8 +1606,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the MetalCoin RPC console.</source>
-        <translation>Vitajte v MetalCoin RPC konzole.</translation>
+        <source>Welcome to the GeoCoin RPC console.</source>
+        <translation>Vitajte v GeoCoin RPC konzole.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1765,8 +1765,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a MetalCoin address (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadajte MetalCoin adresu (napr. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a GeoCoin address (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadajte GeoCoin adresu (napr. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1865,8 +1865,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid MetalCoin address</source>
-        <translation>VAROVANIE: Neplatná MetalCoin adresa</translation>
+        <source>WARNING: Invalid GeoCoin address</source>
+        <translation>VAROVANIE: Neplatná GeoCoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1909,8 +1909,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa pre poslanie platby (napr. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa pre poslanie platby (napr. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1939,8 +1939,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a MetalCoin address (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadaj a MetalCoin addresu (napr. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a GeoCoin address (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadaj a GeoCoin addresu (napr. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1963,8 +1963,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa na podpísanie správy (napr. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa na podpísanie správy (napr. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2000,8 +2000,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this MetalCoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto MetalCoin adresu</translation>
+        <source>Sign the message to prove you own this GeoCoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto GeoCoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2027,13 +2027,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa správy bola podpísaná (napr. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa správy bola podpísaná (napr. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified MetalCoin address</source>
-        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou MetalCoin adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified GeoCoin address</source>
+        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou GeoCoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2043,8 +2043,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a MetalCoin address (e.g. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadajte MetalCoin adresu (napr. MetalCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a GeoCoin address (e.g. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadajte GeoCoin adresu (napr. GeoCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2053,8 +2053,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter MetalCoin signature</source>
-        <translation>Zadajte MetalCoin podpis</translation>
+        <source>Enter GeoCoin signature</source>
+        <translation>Zadajte GeoCoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2624,8 +2624,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>MetalCoin version</source>
-        <translation>MetalCoin verzia</translation>
+        <source>GeoCoin version</source>
+        <translation>GeoCoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2634,8 +2634,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or MetalCoind</source>
-        <translation>Pošli príkaz na -server alebo MetalCoind</translation>
+        <source>Send command to -server or GeoCoind</source>
+        <translation>Pošli príkaz na -server alebo GeoCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2654,13 +2654,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: MetalCoin.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: MetalCoin.conf)</translation>
+        <source>Specify configuration file (default: GeoCoin.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: GeoCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: MetalCoind.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: MetalCoind.pid)</translation>
+        <source>Specify pid file (default: GeoCoind.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: GeoCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2809,8 +2809,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong MetalCoin will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny MetalCoin nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GeoCoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny GeoCoin nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2999,24 +2999,24 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=MetalCoinrpc
+rpcuser=GeoCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;MetalCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;GeoCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=MetalCoinrpc
+rpcuser=GeoCoinrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;MetalCoin Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;GeoCoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3140,13 +3140,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;MetalCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  MetalCoin is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. MetalCoin už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  GeoCoin is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. GeoCoin už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>MetalCoin</source>
-        <translation>MetalCoin</translation>
+        <source>GeoCoin</source>
+        <translation>GeoCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;MetalCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of MetalCoin</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu MetalCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of GeoCoin</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu GeoCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart MetalCoin to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte MetalCoin k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart GeoCoin to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte GeoCoin k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;MetalCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. MetalCoin is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. MetalCoin je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. GeoCoin is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. GeoCoin je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

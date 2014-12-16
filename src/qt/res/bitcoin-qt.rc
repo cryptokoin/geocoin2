@@ -1,4 +1,4 @@
-IDI_ICON1 ICON DISCARDABLE "icons/MetalCoin.ico"
+IDI_ICON1 ICON DISCARDABLE "icons/GeoCoin.ico"
 
 #include <windows.h>             // needed for VERSIONINFO
 #include "../../clientversion.h" // holds the needed client version information
@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "MetalCoin"
-            VALUE "FileDescription",    "MetalCoin-Qt (OSS GUI client for MetalCoin)"
+            VALUE "CompanyName",        "GeoCoin"
+            VALUE "FileDescription",    "GeoCoin-Qt (OSS GUI client for GeoCoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "MetalCoin-qt"
-            VALUE "LegalCopyright",     "2009-2012 The Bitcoin developers, 2012-2013 The MetalCoin & PPCoin developers"
+            VALUE "InternalName",       "GeoCoin-qt"
+            VALUE "LegalCopyright",     "2009-2012 The Bitcoin developers, 2012-2013 The GeoCoin & PPCoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "MetalCoin-qt.exe"
-            VALUE "ProductName",        "MetalCoin-Qt"
+            VALUE "OriginalFilename",   "GeoCoin-qt.exe"
+            VALUE "ProductName",        "GeoCoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

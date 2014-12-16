@@ -40,7 +40,7 @@ CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // "standard" scrypt target limit
 CBigNum bnProofOfStakeLimit(~uint256(0) >> 20);
 CBigNum bnProofOfWorkLimitTestNet(~uint256(0) >> 16);
 
-unsigned int nTargetSpacing = 1 * 90; // 90 seconds
+unsigned int nTargetSpacing = 1 * 60; // 60 seconds
 unsigned int nStakeMinAge = 8 * 60 * 60; // 8 hours
 unsigned int nStakeMaxAge = 30 * 24 * 60 * 60;           // 30 days
 unsigned int nModifierInterval = 10 * 60; // time to elapse before new modifier is computed
@@ -68,7 +68,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "MetalCoin Signed Message:\n";
+const string strMessageMagic = "GeoCoin Signed Message:\n";
 
 // Settings
 int64_t nTransactionFee = MIN_TX_FEE;
@@ -964,79 +964,79 @@ uint256 WantedByOrphan(const CBlock* pblockOrphan)
 }
 
 // miner's coin base reward
-int64_t GetProofOfWorkReward(int64_t nFees) //Total ~91315000 METAL
+int64_t GetProofOfWorkReward(int64_t nFees) //Total ~91315000 GEO
 {
     int64_t nSubsidy = 0 * COIN;
     
-    if (pindexBest->nHeight+1 == 1) //1000000 METAL
+    if (pindexBest->nHeight+1 == 1) //34000 GEO
     {
-      nSubsidy = 1000000 * COIN;
+      nSubsidy = 34000 * COIN;
       return nSubsidy + nFees;
     }
     
-    else if (pindexBest->nHeight+1 <= 100) //0 METAL
+    else if (pindexBest->nHeight+1 <= 100) //0 GEO
     {
       nSubsidy = 0 * COIN;
       return nSubsidy + nFees;
     }
     
-    else if (pindexBest->nHeight+1 <= 2500) //12000000 METAL
+    else if (pindexBest->nHeight+1 <= 40000)
     {
-      nSubsidy = 5000 * COIN;
+      nSubsidy = 10 * COIN;
       return nSubsidy + nFees;
     }
     
-    else if (pindexBest->nHeight+1 <= 5000) //11250000 METAL
+    else if (pindexBest->nHeight+1 <= 80000)
     {
-      nSubsidy = 4500 * COIN;
+      nSubsidy = 9 * COIN;
       return nSubsidy + nFees;
     }
     
-    else if (pindexBest->nHeight+1 <= 7500) //10000000 METAL
+    else if (pindexBest->nHeight+1 <= 120000)
     {
-      nSubsidy = 4000 * COIN;
+      nSubsidy = 8 * COIN;
       return nSubsidy + nFees;
     }
     
-    else if (pindexBest->nHeight+1 <= 10000) //8750000 METAL
+    else if (pindexBest->nHeight+1 <= 160000)
     {
-      nSubsidy = 3500 * COIN;
+      nSubsidy = 7 * COIN;
       return nSubsidy + nFees;
     }
     
-    else if (pindexBest->nHeight+1 <= 12500) //7500000 METAL
+    else if (pindexBest->nHeight+1 <= 200000)
     {
-      nSubsidy = 3000 * COIN;
+      nSubsidy = 6 * COIN;
       return nSubsidy + nFees;
     }
     
-    else if (pindexBest->nHeight+1 <= 15000) //6250000 METAL
+    else if (pindexBest->nHeight+1 <= 240000)
     {
-      nSubsidy = 2500 * COIN;
+      nSubsidy = 5 * COIN;
       return nSubsidy + nFees;
     }
     
-    else if (pindexBest->nHeight+1 <= 17500) //5000000 METAL
+    else if (pindexBest->nHeight+1 <= 280000)
     {
-      nSubsidy = 2000 * COIN;
+      nSubsidy = 4 * COIN;
       return nSubsidy + nFees;
     }
     
-    else if (pindexBest->nHeight+1 <= 20000) //3750000 METAL
+    else if (pindexBest->nHeight+1 <= 320000)
     {
-      nSubsidy = 1500 * COIN;
+      nSubsidy = 3 * COIN;
       return nSubsidy + nFees;
     }
     
-    else if (pindexBest->nHeight+1 <= 22500) //2500000 METAL
+    else if (pindexBest->nHeight+1 <= 360000)
     {
-      nSubsidy = 1000 * COIN;
+      nSubsidy = 2 * COIN;
       return nSubsidy + nFees;
     }
     
-    else if (pindexBest->nHeight+1 <= 50000) //18315000 METAL
+    else if (pindexBest->nHeight+1 <= 5000000)
     {
-      nSubsidy = 666 * COIN;
+      nSubsidy = 1 * COIN;
       return nSubsidy + nFees;
     }
     
@@ -1046,7 +1046,7 @@ int64_t GetProofOfWorkReward(int64_t nFees) //Total ~91315000 METAL
     return nSubsidy + nFees;
 }
 
-const int DAILY_BLOCKCOUNT =  960; 
+const int DAILY_BLOCKCOUNT =  1440; 
 // miner's coin stake reward based on coin age spent (coin-days)
 int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
 {
@@ -2466,7 +2466,7 @@ bool CheckDiskSpace(uint64_t nAdditionalBytes)
         string strMessage = _("Warning: Disk space is low!");
         strMiscWarning = strMessage;
         printf("*** %s\n", strMessage.c_str());
-        uiInterface.ThreadSafeMessageBox(strMessage, "MetalCoin", CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION | CClientUIInterface::MODAL);
+        uiInterface.ThreadSafeMessageBox(strMessage, "GeoCoin", CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION | CClientUIInterface::MODAL);
         StartShutdown();
         return false;
     }
@@ -2555,7 +2555,7 @@ bool LoadBlockIndex(bool fAllowNew)
         if (!fAllowNew)
             return false;
 
-        const char* pszTimestamp = "Mon, 17 Nov 2014 19:14:46 GMT - You Can Now Blast Unbearable Death Metal at Your Uber Cab Driver and He Can't Stop You";
+        const char* pszTimestamp = "Dec 15 2014";
         CTransaction txNew;
         txNew.nTime = 1416251686;
         txNew.vin.resize(1);
@@ -2569,12 +2569,12 @@ bool LoadBlockIndex(bool fAllowNew)
         block.nVersion = 1;
         block.nTime    = 1416251686;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = 1360998;
+        block.nNonce   = 0;
 		if(fTestNet)
         {
-            block.nNonce   = 263150;
+            block.nNonce   = 31083;
         }
-        if (false  && (block.GetHash() != hashGenesisBlock)) {
+        if (true  && (block.GetHash() != hashGenesisBlock)) {
 
         // This will figure out a valid hash and Nonce if you're
         // creating a different genesis block:
@@ -2596,7 +2596,7 @@ bool LoadBlockIndex(bool fAllowNew)
         printf("block.nNonce = %u \n", block.nNonce);
 
         //// debug print
-        assert(block.hashMerkleRoot == uint256("0x189dfe513dacb34ddb0eb89da8ca79374b3de5e9395bbb6d5ea95d30cb672f81"));
+        assert(block.hashMerkleRoot == uint256("0x0e61576eafac6203e0d5dfd01652bfcf284e949ee2da357fcaf9c1ca6100f006"));
         block.print();
         assert(block.GetHash() == (!fTestNet ? hashGenesisBlock : hashGenesisBlockTestNet));
         assert(block.CheckBlock());
