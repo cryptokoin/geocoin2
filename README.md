@@ -1,2 +1,2 @@
-MetalCoin
+GeoCoin
 =========
